@@ -1,4 +1,4 @@
-# MDM-Project
+
 # WanderWise Travel & Tourism
 
 A modern, responsive travel website for discovering destinations and planning trips.
